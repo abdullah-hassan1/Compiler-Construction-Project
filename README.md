@@ -1,8 +1,6 @@
 # Compiler-Construction-Project
 
 
-# Compiler Project
-
 ## Introduction
 
 This project involves developing a simple C++ compiler that can parse basic arithmetic expressions and variable declarations into an abstract syntax tree (AST).
